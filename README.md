@@ -1,6 +1,6 @@
 <div align="center">
 
-$\texttt{\color{#d3a8d9}" the gods may throw a dice , their minds cold as ice "}$
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=200&size=13&pause=1000&color=D3A8D9&width=435&lines=%22+the+gods+may+throw+a+dice%2C+their+minds+cold+as+ice+%22)](https://git.io/typing-svg)
  
 <img src="https://files.catbox.moe/3ph867.png" alt="Your image title" width="450"/>
 
